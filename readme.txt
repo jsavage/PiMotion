@@ -1,5 +1,8 @@
 PiMotion
 ========
+Curently this project only includes some very minor tweaks to the code as forked from DoctorWoof.
+Mainly to enable better diagnostics/ visibilty of the number of pixel changes being detected whilst optimising settings. 
+
 
 Pure python motion detection and high quality video recording for the Raspberry Pi Camera Module.
 
